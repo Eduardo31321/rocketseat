@@ -1,4 +1,4 @@
-<h1 align="center"> rocketseat </h1>
+<h1 align="center"> projeto </h1>
 
 <p align="center">
 Curso exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
